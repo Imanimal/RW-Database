@@ -1,0 +1,34 @@
+D:\Dima\Project\RW Database\RW Database\bin\Debug\RW Database.exe.config
+D:\Dima\Project\RW Database\RW Database\bin\Debug\RW Database.exe
+D:\Dima\Project\RW Database\RW Database\bin\Debug\RW Database.pdb
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.Properties.Resources.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW Database.csproj.GenerateResource.cache
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW Database.csproj.CoreCompileInputs.cache
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW Database.exe
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW Database.pdb
+D:\Dima\Project\RW Database\RW Database\bin\Debug\Hotel.mdf
+D:\Dima\Project\RW Database\RW Database\bin\Debug\Hotel_log.ldf
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.MainForm.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.insertBox.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.deleteBox.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.inputPassword.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.FormConnection.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW_Database.formOpenPort.resources
+D:\Dima\Project\RW Database\RW Database\obj\Debug\RW Database.csprojAssemblyReference.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Debug\Hotel.mdf
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Debug\Hotel_log.ldf
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Debug\RW Database.exe.config
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Debug\RW Database.exe
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Debug\RW Database.pdb
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW Database.csprojAssemblyReference.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.deleteBox.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.MainForm.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.FormConnection.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.inputPassword.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.insertBox.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.Properties.Resources.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW_Database.formOpenPort.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW Database.csproj.GenerateResource.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW Database.csproj.CoreCompileInputs.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW Database.exe
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Debug\RW Database.pdb

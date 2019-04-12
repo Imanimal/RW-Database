@@ -1,0 +1,19 @@
+{
+  "$id": "19",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": null,
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2018-12-28T17:51:20.0777806+03:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "RemoteProjectLinks": null,
+  "SidebarExpandedItems": [
+    "Состояния файлов",
+    "Ветки"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": []
+}

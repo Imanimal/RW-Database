@@ -1,0 +1,17 @@
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Release\Hotel.mdf
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Release\Hotel_log.ldf
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Release\RW Database.exe.config
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Release\RW Database.exe
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\bin\Release\RW Database.pdb
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW Database.csprojAssemblyReference.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.deleteBox.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.MainForm.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.FormConnection.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.inputPassword.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.insertBox.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.Properties.Resources.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW_Database.formOpenPort.resources
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW Database.csproj.GenerateResource.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW Database.csproj.CoreCompileInputs.cache
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW Database.exe
+D:\Dima\GoogleDisc\ПГУ\Учёба\Сетевые приложения\Курсач\RW Database\RW Database\obj\Release\RW Database.pdb
